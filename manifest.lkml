@@ -6,7 +6,7 @@ project_name: "helloworld-js"
 # local_dependency: {
 #   project: "name_of_other_project"
 # }
-application: name {
+application: tabbed_dashboard {
   label: "label"
   url: "http://localhost:8080/bundle.js"
   # file: "bundle.js
